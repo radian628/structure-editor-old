@@ -1,0 +1,48 @@
+{
+    "type": "compound",
+    "value": {
+        "auto": {
+            "type": "byte",
+            "value": 1
+        },
+        "powered": {
+            "type": "byte",
+            "value": 0
+        },
+        "LastExecution": {
+            "type": "long",
+            "value": [
+                0,
+                244415
+            ]
+        },
+        "SuccessCount": {
+            "type": "int",
+            "value": 1
+        },
+        "UpdateLastExecution": {
+            "type": "byte",
+            "value": 1
+        },
+        "conditionMet": {
+            "type": "byte",
+            "value": 1
+        },
+        "CustomName": {
+            "type": "string",
+            "value": "{\"text\":\"@\"}"
+        },
+        "Command": {
+            "type": "string",
+            "value": ""
+        },
+        "id": {
+            "type": "string",
+            "value": "minecraft:command_block"
+        },
+        "TrackOutput": {
+            "type": "byte",
+            "value": 1
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "type": "compound",
+    "value": {
+        "metadata": {
+            "type": "string",
+            "value": ""
+        },
+        "mirror": {
+            "type": "string",
+            "value": "NONE"
+        },
+        "ignoreEntities": {
+            "type": "byte",
+            "value": 1
+        },
+        "powered": {
+            "type": "byte",
+            "value": 0
+        },
+        "seed": {
+            "type": "long",
+            "value": [
+                0,
+                0
+            ]
+        },
+        "author": {
+            "type": "string",
+            "value": "?"
+        },
+        "rotation": {
+            "type": "string",
+            "value": "NONE"
+        },
+        "posX": {
+            "type": "int",
+            "value": 0
+        },
+        "mode": {
+            "type": "string",
+            "value": "LOAD"
+        },
+        "posY": {
+            "type": "int",
+            "value": 1
+        },
+        "sizeX": {
+            "type": "int",
+            "value": 4
+        },
+        "posZ": {
+            "type": "int",
+            "value": 0
+        },
+        "integrity": {
+            "type": "float",
+            "value": 1
+        },
+        "showair": {
+            "type": "byte",
+            "value": 0
+        },
+        "name": {
+            "type": "string",
+            "value": "minecraft:test_1"
+        },
+        "id": {
+            "type": "string",
+            "value": "minecraft:structure_block"
+        },
+        "sizeY": {
+            "type": "int",
+            "value": 4
+        },
+        "sizeZ": {
+            "type": "int",
+            "value": 3
+        },
+        "showboundingbox": {
+            "type": "byte",
+            "value": 1
+        }
+    }
+}

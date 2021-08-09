@@ -1,0 +1,17 @@
+{
+    "pos": {
+        "type": "list",
+        "value": {
+            "type": "int",
+            "value": [
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "state": {
+        "type": "int",
+        "value": 1
+    }
+}

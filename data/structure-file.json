@@ -1,0 +1,39 @@
+{
+    "name": "",
+    "value": {
+        "size": {
+            "type": "list",
+            "value": {
+                "type": "int",
+                "value": []
+            }
+        },
+        "entities": {
+            "type": "list",
+            "value": {
+                "type": "end",
+                "value": []
+            }
+        },
+        "blocks": {
+            "type": "list",
+            "value": {
+                "type": "compound",
+                "value": [
+                ]
+            }
+        },
+        "palette": {
+            "type": "list",
+            "value": {
+                "type": "compound",
+                "value": [
+                ]
+            }
+        },
+        "DataVersion": {
+            "type": "int",
+            "value": 1963
+        }
+    }
+}
